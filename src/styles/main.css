@@ -40,6 +40,8 @@ body {
   font-size: 18px;
   padding: 8px;
   cursor: pointer;
+  height: 44px;
+  width: 44px;
 }
  
 .app-bar .app-bar__brand {
